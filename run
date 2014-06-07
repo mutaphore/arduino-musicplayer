@@ -1,0 +1,1 @@
+screen `cat arduino_port` 115200
